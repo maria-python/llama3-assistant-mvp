@@ -73,3 +73,11 @@ Future improvements may include:
 ## License
 
 MIT
+
+## Contact
+
+Gmail: maria.ilnitska11@gmail.com
+
+LinkedIn: www.linkedin.com/in/maria-ilnitska
+
+Telegram: @mariailnitska
