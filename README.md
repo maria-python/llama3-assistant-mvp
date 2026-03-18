@@ -80,4 +80,4 @@ Gmail: maria.ilnitska11@gmail.com
 
 LinkedIn: www.linkedin.com/in/maria-ilnitska
 
-Telegram: @mariailnitska
+Telegram: @mariailnitska 
