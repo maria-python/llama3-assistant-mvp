@@ -14,7 +14,7 @@ This repository focuses on experimenting with local LLM interaction, simple memo
 * JSON-based memory system
 
 ## Project Structure
-
+    
 ```
 mvp/
 │
